@@ -37,7 +37,6 @@ public class TestClass {
         int actual = team.getTotal();
 
         Assert.assertEquals(expected, actual);
-
     }
 
 }
